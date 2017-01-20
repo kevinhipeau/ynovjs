@@ -1,0 +1,25 @@
+{
+  "name": "js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "mocha.js",
+  "dependencies": {
+    "chai": "^3.5.0"
+  },
+  "devDependencies": {
+    "mocha": "^3.2.0"
+  },
+  "scripts": {
+    "test": "mocha toto.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevinhipeau/ynovjs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kevinhipeau/ynovjs/issues"
+  },
+  "homepage": "https://github.com/kevinhipeau/ynovjs#readme"
+}
